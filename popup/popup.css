@@ -1,0 +1,13 @@
+.timer-image {
+  width: 120px;
+  height: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  font-size: 16px;
+  width: 350px;
+  height: 580px;
+  cursor: default;
+}
