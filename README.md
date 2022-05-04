@@ -4,7 +4,7 @@ Google Chrome Extension exercise working with basic functionalities:
   - Manifest
   - action popup
   - options page
-  - permissions
+  - permissions: 
     storage, alarms, notifications
   - background
     service worker
